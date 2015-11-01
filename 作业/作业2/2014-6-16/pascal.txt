@@ -1,0 +1,12 @@
+program ; mypro;
+const
+	ss = '+-*/'; 
+	e = 2.7182818; 
+	c = 'q'; 
+	a=1;
+var
+	aa, bb: integer;
+begin
+aa:=1+aa;
+bb:=aa * bb;
+end.
